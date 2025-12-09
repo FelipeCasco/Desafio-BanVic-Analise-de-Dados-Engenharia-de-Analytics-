@@ -1,0 +1,26 @@
+banvic-analytics-desafio/
+│
+├── README.md
+├── LICENSE
+│
+├── 📂 data
+│   ├── raw
+│       ├── agencias.csv
+│       ├── clientes.csv
+│       ├── colaborador_agencia.csv
+│       ├── colaboradores.csv
+│       ├── contas.csv
+│       ├── propostas_credito.csv
+│       ├── transacoes.csv
+│       └── ipca_2020_2025.xlsx
+│
+├── 📂 notebooks
+│   └── exploracao_banvic.ipynb
+│
+├── 📂 dashboards
+│   ├── LH_BANVIC_FELIPECASCO.pbix
+|   ├── LH_BANVIC_FELIPECASCO.pdf 
+│   └── README.md
+│
+└── 📂 presentation
+    └── LH_EA_felipeRochaCasco.pdf
